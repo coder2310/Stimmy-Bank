@@ -1,5 +1,4 @@
 package stimmybank.com.stimmybank.auth;
-// git personal access token: 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
 public class AuthenticationRequest {
     private String username;
     private String password;
